@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">School Planner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">School Planner</string>
+    <string name="nav_header_subtitle">Andrei Serbanat</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_timetable">Timetable</string>
+    <string name="menu_subjects">Subjects</string>
+    <string name="menu_grades">Grades</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This will be the grades fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+
+
+    <string-array name="Timetable">
+        <item>Luni:</item>
+        <item>Calcul Numeric-curs (12:10-14:00)</item>
+        <item>Calcul Numeric-curs (14:10-16:00)</item>
+        <item>Logica matematica-curs (16:10-18:00)</item>
+        <item>Logica matematica-curs (18:10-20:00)</item>
+        <item> </item>
+        <item> </item>
+        <item>Marti:</item>
+        <item>Dezvoltarea aplicatiilor mobile-lab (09:00-10:50)</item>
+        <item>Dezvoltarea aplicatiilor mobile-lab (11:00-13:00)</item>
+        <item>Dezvoltarea aplicatiilor mobile-proiect (13:10-14:00)</item>
+        <item> </item>
+        <item> </item>
+        <item>Miercuri:</item>
+        <item>Dezvoltarea aplicatiilor mobile-curs (09:00-10:50)</item>
+        <item>Dezvoltarea aplicatiilor mobile-curs (11:00-13:00)</item>
+        <item>Dezvoltarea aplicatiilor mobile-proiect (14:10-15:00)</item>
+        <item> </item>
+        <item> </item>
+        <item>Joi:</item>
+        <item>Calcul Numeric-lab (08:00-09:50)</item>
+        <item>Calcul Numeric-lab (10:00-11:50)</item>
+        <item> </item>
+        <item> </item>
+        <item>Vineri:</item>
+        <item>Logica matematica-seminar (10:00-11:50)</item>
+        <item>Logica matematica-consultatii (12:30)</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="Subjects">
+    <item>Logica Matematica si Computationala:</item>
+    <item>Profesor Curs: Bogdan Marcel</item>
+    <item>Profesor Seminar: Bogdan Marcel</item>
+    <item> </item>
+    <item>Calcul Numeric:</item>
+    <item>Profesor Curs: Finta Bela</item>
+    <item>Profesor Laborator: Bogdan Marcel</item>
+    <item> </item>
+    <item>Dezvoltarea Aplicatiilor Mobile:</item>
+    <item>Profesor Curs: Kiss Istvan</item>
+    <item>Profesor Laborator: Kiss Istvan</item>
+    <item> </item>
+    </string-array>
+
+    <string-array name="Grades">
+        <item>Logica Matematica si Computationala:</item>
+        <item>Nota Curs: 4</item>
+        <item>Nota Sumativ: </item>
+        <item>Nota Seminar: 5</item>
+        <item>Nota Finala: </item>
+        <item> </item>
+        <item>Calcul Numeric:</item>
+        <item>Nota Curs: 7</item>
+        <item>Nota Sumativ: </item>
+        <item>Nota Laborator: 5</item>
+        <item>Nota Finala: </item>
+        <item> </item>
+        <item>Dezvoltarea Aplicatiilor Mobile:</item>
+        <item>Nota Curs: </item>
+        <item>Nota Sumativ: </item>
+        <item>Nota Laborator: </item>
+        <item>Nota Finala: </item>
+        <item> </item>
+    </string-array>
+
+
+
+</resources>
